@@ -1,0 +1,3 @@
+User-agent: *
+DISAllow: /
+Sitemap: https://xn--299as98almezscvtv.com/sitemap.xml
